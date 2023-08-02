@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zeeshan-cv.vercel.app/](https://zeeshan-cv.vercel.app/)
 
-- 💬 Ask me about **Flutter , Flutter , Unity2D , YOLO , Deep Learning**
+- 💬 Ask me about **Flutter , Unity2D , YOLO , Deep Learning**
 
 - 📫 How to reach me **zetro.malick@gmail.com**
 
